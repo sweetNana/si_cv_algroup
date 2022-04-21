@@ -1,0 +1,1 @@
+<embed src="{{ asset(asset('perencanaan/' .$perencanaans->file_perencana)) }}" style="width: 100%; height: 100%;border: none;">
