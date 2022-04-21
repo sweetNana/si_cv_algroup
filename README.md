@@ -27,3 +27,11 @@ Role :
 
 # Menu Untuk Ketua
 - Menu Approvment : di menu ini ketua bisa melihat perencanaan yang diajukan oleh admin, setelah itu ketua bisa melakukan persetujuan atau penolakan pada perencaan yang diajukan.
+
+# Tampilan Login
+![01-LOGIN](https://user-images.githubusercontent.com/81208093/164414057-3e64fddb-d548-4cdc-ace6-648bb35a6312.JPG)
+
+
+
+
+
