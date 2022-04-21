@@ -15,7 +15,7 @@ Role :
 - Ketua
 - Admin
 
-# Menu Untuk Staf / Admin
+## Menu Untuk Staf / Admin
 - Menu Supplier : Dalam menu ini kita bisa menambah, edit, dan hapus data supplier yang menyuplai barang ke CV Algroup
 - Menu User : Dalam menu ini kita bisa menambah, edit, dan hapus data user.
 - Menu Barang : 
@@ -26,11 +26,16 @@ Role :
 - Menu Laporan : dalam menu ini berisi tentang Laporan Barang Masuk, Laporan Barang Keluar, dan Laporan Perencanaan.
 - Menu Chat : dalam menu ini staf bisa melakukan chat kepada ketua
 
-# Menu Untuk Ketua
+## Menu Untuk Ketua
 - Menu Approvment : di menu ini ketua bisa melihat perencanaan yang diajukan oleh admin, setelah itu ketua bisa melakukan persetujuan atau penolakan pada perencaan yang diajukan.
 - Menu Chat : dalam menu ini ketua bisa melakukan chat kepada staf
 
-# Contoh Beberapa Tampilan 
+## Dibuat Dengan:
+- Framework Laravel
+- Bahasa Pemrograman PHP
+- Database MySql
+
+## Contoh Beberapa Tampilan 
 ![01-LOGIN](https://user-images.githubusercontent.com/81208093/164414057-3e64fddb-d548-4cdc-ace6-648bb35a6312.JPG)
 
 ![03-Data Supllier - Staf](https://user-images.githubusercontent.com/81208093/164414223-3a1cfcb9-27a7-4eb2-81f0-09189c1113c2.JPG)
