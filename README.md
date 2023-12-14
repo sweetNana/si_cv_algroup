@@ -8,27 +8,20 @@
 </p>
 
 
-Ini adalah suatu aplikasi web / sistem informasi manajemen persediaan bahan baku. yang dimana nanti admin / staf bisa cek jumlah data barang yang ada, dan jika jumlah barang kurang admin bisa request barang dan melakukan perencanaan agar bisa di process oleh penanggung jawab (ketua), dalam aplikasi ini terdapat beberapa menu seperti :
+Ini adalah suatu aplikasi web / sistem informasi manajemen persediaan bahan baku. yang dimana nanti admin / kepala gudang bisa cek jumlah data barang yang ada, dan jika jumlah barang kurang admin bisa request barang dan melakukan perencanaan agar bisa di process, dalam aplikasi ini terdapat beberapa menu seperti :
 
 Role :
 - Kepala gudang
 - Admin
 
-## Menu Untuk Staf / Admin
-- Menu Supplier : Dalam menu ini kita bisa menambah, edit, dan hapus data supplier yang menyuplai barang ke CV Algroup
-- Menu User : Dalam menu ini kita bisa menambah, edit, dan hapus data user.
-- Menu Barang : 
-    > Dalam menu ini kita bisa edit dan hapus data barang.
-    > Dalam menu ini ada menu Barang Masuk yang dimana untuk mendata barang masuk.
-    > Dalam menu ini ada menu Barang Keluar yang dimana untuk mendata barang keluar.
-- Menu Perencanaan : di menu ini kita bisa merencanakan barang yang akan di request atau dibutuhkan untuk diajukan kepada ketua, dan akan disetujui atau ditolak oleh ketua.
+## Menu Untuk Kepala Gudang / Admin
+- Menu Pesanan : Dalam menu ini kita bisa menambah, edit, dan hapus data supplier yang menyuplai barang ke CV Artex Indonesia
+- Menu Pembelian : Dalam menu ini kita bisa menambah, edit, dan hapus data pembelian.
+- Menu Pemakaian: Dalam menu ini kita bisa menambah, edit, dan hapus data pemakaian.
+- Menu Bahan Baku: Dalam menu ini kita bisa menambah, edit, dan hapus data bahan baku. 
 - Menu Laporan : dalam menu ini berisi tentang Laporan Barang Masuk, Laporan Barang Keluar, dan Laporan Perencanaan.
-- Menu Chat : dalam menu ini staf bisa melakukan chat kepada ketua
-
-## Menu Untuk Kepala Gudang
-- Menu Approvment : di menu ini ketua bisa melihat perencanaan yang diajukan oleh admin, setelah itu ketua bisa melakukan persetujuan atau penolakan pada perencaan yang diajukan.
-- Menu Chat : dalam menu ini ketua bisa melakukan chat kepada staf
-
+- Menu Return
+  
 ## Dibuat Dengan:
 - Framework Laravel
 - Bahasa Pemrograman PHP
