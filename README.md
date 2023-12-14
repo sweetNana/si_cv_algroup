@@ -7,12 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Inventori CV AL-GROUP
 
 Ini adalah suatu aplikasi web / sistem informasi manajemen persediaan bahan baku. yang dimana nanti admin / staf bisa cek jumlah data barang yang ada, dan jika jumlah barang kurang admin bisa request barang dan melakukan perencanaan agar bisa di process oleh penanggung jawab (ketua), dalam aplikasi ini terdapat beberapa menu seperti :
 
 Role :
-- Ketua
+- Kepala gudang
 - Admin
 
 ## Menu Untuk Staf / Admin
@@ -26,7 +25,7 @@ Role :
 - Menu Laporan : dalam menu ini berisi tentang Laporan Barang Masuk, Laporan Barang Keluar, dan Laporan Perencanaan.
 - Menu Chat : dalam menu ini staf bisa melakukan chat kepada ketua
 
-## Menu Untuk Ketua
+## Menu Untuk Kepala Gudang
 - Menu Approvment : di menu ini ketua bisa melihat perencanaan yang diajukan oleh admin, setelah itu ketua bisa melakukan persetujuan atau penolakan pada perencaan yang diajukan.
 - Menu Chat : dalam menu ini ketua bisa melakukan chat kepada staf
 
@@ -37,14 +36,6 @@ Role :
 - JQuery
 - CSS + HTML
 
-## Contoh Beberapa Tampilan 
-![01-LOGIN](https://user-images.githubusercontent.com/81208093/164414057-3e64fddb-d548-4cdc-ace6-648bb35a6312.JPG)
-
-![03-Data Supllier - Staf](https://user-images.githubusercontent.com/81208093/164414223-3a1cfcb9-27a7-4eb2-81f0-09189c1113c2.JPG)
-
-![10-Tambah Barang Belum Pernah Ada - Staf](https://user-images.githubusercontent.com/81208093/164414608-2be2f4d6-c77f-4e69-9d9e-d2929423bb4a.JPG)
-
-![21-Tambah Perencanaan - Staf](https://user-images.githubusercontent.com/81208093/164414641-4dd4f303-010c-4a3d-bede-cf98599f517a.JPG)
 
 ![25-Approvment Cek Perencanaan - Ketua](https://user-images.githubusercontent.com/81208093/164414680-f2031a40-b3ae-4f2c-8a9c-6940543365b3.JPG)
 
