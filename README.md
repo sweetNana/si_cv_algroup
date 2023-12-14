@@ -36,9 +36,3 @@ Role :
 - JQuery
 - CSS + HTML
 
-
-![25-Approvment Cek Perencanaan - Ketua](https://user-images.githubusercontent.com/81208093/164414680-f2031a40-b3ae-4f2c-8a9c-6940543365b3.JPG)
-
-![14-Convert Perencanaan - Staf](https://user-images.githubusercontent.com/81208093/164892406-549faa7b-3fbd-479b-b6a5-2e3deb54b828.JPG)
-
-![Chat - 2](https://user-images.githubusercontent.com/81208093/164414735-48b17f3d-2bcc-4482-9616-a9f999033ab3.JPG)
